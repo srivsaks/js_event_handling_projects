@@ -33,7 +33,7 @@ transition:max-height 2s;
 }*/
 
 /*Below is for Colour changing circel*/
-#main{
+/* #main{
 font-weight: bold;
 font-size: 2em;
 height:12em;
@@ -52,4 +52,57 @@ height: 200px;
 width: 200px;
 border-radius: 100%;
 margin-top: 20px;
+} */
+
+/*Below is for Form events*/
+/*.cool-form{
+    margin:auto;
+    padding:2em 1em 1em 2em;
+    width:70%;
+    background-color: rgb(67,91,117);
+    border:5px solid #141414;
 }
+
+.cool-form label{
+    display:block;
+    margin-bottom: 10px;
+}
+
+ selecting span with parent as label
+.cool-form label>span{
+width:150px;
+float:left;
+}
+
+#output{
+    padding-top:1em;
+    width:50%;
+    font-size:1em;
+    color:#fff
+}*/
+
+/*Below prints chains of Hi text when mouse is over a particular div and also prints small dots on the div*/
+/* #psuedo-image{
+    background-color: chartreuse;
+    width:400px;
+    height:400px;
+    margin:0 auto;
+    margin-top: 100px;
+
+}
+
+#my-text{
+    margin-top: 100px;
+    display: block;
+    font-size: 70px;
+}
+
+.dot{
+    height:0.5rem;
+    width:0.5rem;
+    border-radius: 2px;
+    background-color: black;
+    position:absolute;
+    top:150px;
+    left:700px;
+} */
