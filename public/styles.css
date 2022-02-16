@@ -2,7 +2,7 @@ body{
     background-color: ghostwhite;
 }
 
-#content{
+/*#content{
     background-color: hotpink;
     width:400px;
     padding: 20px;
@@ -30,4 +30,26 @@ body{
 #content.open{
 max-height:1000px;
 transition:max-height 2s;
+}*/
+
+/*Below is for Colour changing circel*/
+#main{
+font-weight: bold;
+font-size: 2em;
+height:12em;
+width:10em;
+}
+
+#wrapper{
+    margin:0 auto;
+    height:12em;
+    width:10em;
+}
+
+#circle{
+background-color: #1efe1e;
+height: 200px;
+width: 200px;
+border-radius: 100%;
+margin-top: 20px;
 }
